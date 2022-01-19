@@ -1,0 +1,37 @@
+                                                 NOTE 1 : introduction :
+
+-Data Structure:
+is a primitive data type hold a single piece of data.
+
+-Data structures :
+        are ways in which data is arranged
+        in your computer's memory (or stored on disk).
+     or:
+        A systematic way of organizing and accessing data.
+
+-Data structure discipline :
+    concerned with the details of coding and data storage.
+
+-Abstract Data Type [ADT]: 
+        is a data type together with the operations, whose properties are 
+        specified independently of any particular implementation.
+        or:
+            is a model/specification of a data type defined by :
+                   #Its set of operations including inputs and outputs, 
+                    #the specified behavior of those operations, and
+                    #A model of the structural relationship
+                         of the data contained by an instance of the ADT.
+
+-ADT follow the principle of :
+    (good design - abstraction - encapsulation - modularity).
+
+-Encapsulation: 
+    Providing data and operations on the data.
+
+-Abstraction: 
+    hiding the details.
+
+Modularity: 
+    Splitting a program into pieces.
+
+-Linear Structure (array  - linked list - stack - queue - priority queue).

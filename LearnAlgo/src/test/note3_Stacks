@@ -1,0 +1,14 @@
+                The Stack :
+- is a last-in-first-out buffer.
+
+- the stack main operation :
+        # push() : insert element.
+        #pop() : remove and return the last inserted element.
+        #peek() : return the value  at the top.
+
+- the auxiliary stack operation :
+        #top(): return the last inserted element .
+        #size(): return the number of element of element stored.
+        #isEmpty() : indicates whither no element are stored.
+        #isFull(): indicates whether stack is full .
+
